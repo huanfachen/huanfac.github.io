@@ -3,11 +3,11 @@ layout: default
 ---
 
 ![Thumbnail of cayman](Photo_Huanfa Chen.jpg)
-## Contact： [chenhuanfa@gmail.com](mailto:chenhuanfa@gmail.com)
+#### Contact： [chenhuanfa@gmail.com](mailto:chenhuanfa@gmail.com)
 
 ---
 
-## [Research Scholar](https://scholar.google.co.uk/citations?user=KS4w2hkAAAAJ&hl=en),[Researchgate](https://www.researchgate.net/profile/Huanfa_Chen2),[LinkedIn](https://www.linkedin.com/in/huanfa-chen/)
+#### [Research Scholar](https://scholar.google.co.uk/citations?user=KS4w2hkAAAAJ&hl=en), [Researchgate](https://www.researchgate.net/profile/Huanfa_Chen2), [LinkedIn](https://www.linkedin.com/in/huanfa-chen/)
 
 ---
 
