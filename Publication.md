@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Selected Publications
+## Selected Publications
 #### Journal
 1. **Huanfa Chen**, Tao Cheng, Sarah Wise. Developing an online cooperative police patrol routing strategy. Computers, Environments and Urban Systems. 62, 19–29 (2017). (Indexed by SSCI, impact factor 2.092)
 1. Hamed Karimian, Qi Li, **Huanfa Chen**. Accessing Urban Sustainable Development in Isfahan, Applied Mechanics and Materials. 2013, 253-255, 244-248

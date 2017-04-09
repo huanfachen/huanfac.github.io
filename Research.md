@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Research
 ### Designing Effective Police Patrolling Strategy on Street Network
 * #### 2014 - Present
 * #### Work with Prof. Tao Cheng
