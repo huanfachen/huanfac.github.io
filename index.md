@@ -11,4 +11,4 @@ layout: default
 
 ---
 
-### [CV](CV) | [Biography](Biography) | [Research](Research) | [Publication](Research) | [Service](Service) | [Award](Award)
+### [CV](CV.html) | [Biography](Biography) | [Research](Research) | [Publication](Research) | [Service](Service) | [Award](Award)
