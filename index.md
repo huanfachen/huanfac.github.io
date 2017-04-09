@@ -11,4 +11,4 @@ layout: default
 
 ---
 
-### [CV](CV_HuanfaChen_20170314.pdf) | [Biography](Biography) | [Research](Research) | [Publication](Research) | [Service](Service) | [Award](Award)
+### [CV](CV_HuanfaChen_20170314.pdf) | [Biography](Biography) | [Research](Research) | [Publication](Publication) | [Service](Service) | [Award](Award)
