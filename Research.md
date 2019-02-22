@@ -11,7 +11,7 @@ layout: default
 ### Spatio-temporal Modelling of Urban Air Quality in Beijing
 * #### 2014.01 - 2014.09
 * #### Work with: Prof. Qi Li
-* #### Statistical analysis of the PM2.5 concentration time series data in Beijing. Building a spatio-temporal ARIMR model to predict the future air pollution level. The model has high predicting accuracy.   
+* #### Statistical analysis of the PM2.5 concentration time series data in Beijing. Building a spatio-temporal ARIMR model to predict the future air pollution level. The model has high predicttion accuracy.   
 
 ### A 3D Simulation System for Hazardous Chemical Leakage Accidents
 * #### 2012.01 - 2014.09
