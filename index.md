@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](Photo_Huanfa Chen.jpg)
+![](Huanfa_ucl.jpg)
 
 #### Contact：[huanfa.chen@ucl.ac.uk](mailto:huanfa.chen@ucl.ac.uk) | [chenhuanfa@gmail.com](mailto:chenhuanfa@gmail.com)
 
