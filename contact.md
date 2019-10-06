@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+tagline: You can find me in many places.
 permalink: /contact.html
 ref: contact
 order: 4

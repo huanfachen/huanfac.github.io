@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-tagline: research
+tagline: My Research interests and projects
 permalink: /research.html
 ref: research
 order: 2
