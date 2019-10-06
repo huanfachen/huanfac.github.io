@@ -36,6 +36,6 @@ target-blank:
     rel: nofollow
 
 # header_page_refs: ['CV', 'Publication', 'Research', 'About', 'Contact']
-header_page_refs: ['now', 'About', 'Contact']
+header_page_refs: ['now', 'about', 'contact']
 
 
