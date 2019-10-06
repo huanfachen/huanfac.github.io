@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: publication
 tagline: publication
 permalink: /publication.html
 ref: publication
