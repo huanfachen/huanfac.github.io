@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publication
-tagline: publication
+title: Publication
+# tagline: publication
 permalink: /publication.html
 ref: publication
 order: 1
