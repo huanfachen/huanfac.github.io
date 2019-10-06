@@ -1,6 +1,40 @@
-title: Huanfa Chen
-description: Geographical Information Science, Spatio-temporal Data Mining, Spatial Optimisation
-theme: jekyll-theme-cayman
-comments: true
-disqus: huanfachen
+# title: Huanfa Chen
+# description: Geographical Information Science, Spatio-temporal Data Mining, Spatial Optimisation
+# theme: jekyll-theme-cayman
+# comments: true
+# disqus: huanfachen
+# google_analytics: UA-96998681-1
+
+title: Huanfa Chen's website
+description: Researcher in Spatial Data Science
+show_downloads: false
+
 google_analytics: UA-96998681-1
+disqus: huanfachen
+comments: true
+
+baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://huanfachen.github.io" # change this to the base hostname & protocol for your site
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: huanfa chen
+image: /thumbnail-jumbo.png
+twitter:
+  username: huanfaC
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+header_page_refs: ['now', 'about', 'contact']
+
+
