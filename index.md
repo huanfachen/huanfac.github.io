@@ -1,17 +1,17 @@
 ---
-layout: default
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
 
-![](Huanfa_ucl.jpg)
+Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
 
-#### Contact：[huanfa.chen@ucl.ac.uk](mailto:huanfa.chen@ucl.ac.uk) | [chenhuanfa@gmail.com](mailto:chenhuanfa@gmail.com)
+This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
 
----
+Have a look at the Github page for more information.
 
-#### You can also find me here:
-#### [Google Scholar](https://scholar.google.co.uk/citations?user=KS4w2hkAAAAJ&hl=en) | [Researchgate](https://www.researchgate.net/profile/Huanfa_Chen2) | [LinkedIn](https://www.linkedin.com/in/huanfa-chen/) | [Twitter](https://twitter.com/huanfac) 
-
----
-
-### [CV](CV_HuanfaChen_20190222.pdf) | [Biography](Biography) | [Research](Research) | [Publications](Publication) | [Service](Service) | [Award](Award)
-
+You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.

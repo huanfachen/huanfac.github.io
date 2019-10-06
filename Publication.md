@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: page
+title: Publication
+tagline: publication
+permalink: /publication.html
+ref: publication
+order: 1
 ---
 ## Selected Publications
 #### Journal

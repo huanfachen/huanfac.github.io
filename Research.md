@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: page
+title: Research
+tagline: research
+permalink: /research.html
+ref: research
+order: 2
 ---
 ## Research
 ### Designing Effective Police Patrolling Strategy on Street Network
