@@ -2,9 +2,9 @@
 layout: post
 ---
 
-Test snapshot-anaconda-nagivator:
+Test snapshot-anaconda-nagivator (commented):
 
-![Snapshot-anaconda-nav](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.png)
+#![Snapshot-anaconda-nav](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.png)
 
 Test my personal photo:
 
