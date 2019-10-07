@@ -18,7 +18,7 @@ Remember to install Anaconda with Python 3.7 (or 3.6). Follow [this link](https:
 
 If Anaconda is installed correctly, you should be able to see these two items *Anaconda Navigator* and *Anaconda Prompt* in the Windows search panel, as follows:
 
-![](images/snapshot_anaconda_search_results.png)
+![](../images/snapshot_anaconda_search_results.png)
 
 # Starting Jupyter notebook
 
