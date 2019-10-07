@@ -32,6 +32,10 @@ The first way is to click and start *Anaconda Navigator*. The navigator provided
 
 ![Snapshot-anaconda-nav](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.png)
 
+Test with another image:
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 Test with a jpg:
 
 ![](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.jpg)
