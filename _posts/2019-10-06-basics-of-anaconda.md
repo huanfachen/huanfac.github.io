@@ -18,7 +18,7 @@ Remember to install Anaconda with Python 3.7 (or 3.6). Follow [this link](https:
 
 If Anaconda is installed correctly, you should be able to see these two items *Anaconda Navigator* and *Anaconda Prompt* in the Windows search panel, as follows:
 
-![](../images/snapshot_anaconda_search_results.png)
+![](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_search_results.png)
 
 # Starting Jupyter notebook
 
@@ -30,7 +30,7 @@ There are two ways to start a Jupyter notebook. Assume that you have a *hello_wo
  
 The first way is to click and start *Anaconda Navigator*. The navigator provided access to different editors. 
 
-![](images/snapshot_anaconda_navigator.png)
+![](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.png)
 
 Then choose *Notebook*. You will see a new page opened in your browser. This page is a tree of the file system, the root node being the current user folder. 
 
