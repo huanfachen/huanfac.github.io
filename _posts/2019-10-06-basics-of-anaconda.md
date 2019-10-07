@@ -32,6 +32,14 @@ The first way is to click and start *Anaconda Navigator*. The navigator provided
 
 ![](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.png)
 
+Test with a jpg:
+
+![](https://github.com/huanfachen/huanfachen.github.io/blob/master/images/snapshot_anaconda_navigator.jpg)
+
+Test with my personal photo
+
+![](https://github.com/huanfachen/huanfachen.github.io/blob/master/Huanfa_ucl.jpg)
+
 Then choose *Notebook*. You will see a new page opened in your browser. This page is a tree of the file system, the root node being the current user folder. 
 
 You can navigate to the location of the *hello_world.ipynb* file. There your are.
