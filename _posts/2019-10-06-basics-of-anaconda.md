@@ -50,14 +50,14 @@ Start Anaconda Prompt from the Windows search box. Then you see the black box:
 
 By default the path is the root folder of the current user. But you are free to navigate to any path or drive, as long as you know basic commands on prompt.
 
-Below is a table of common commands on Windows and Mac/Linux. Please replace <folder-name> and <drive-name> with a specific name.
+Below is a table of common commands on Windows and Mac/Linux. Please replace \<folder-name\> and \<drive-name\> with a specific name.
 
 Purpose | Win command | Mac command
 --- | --- | ---
 Go to the parent folder | cd .. | cd ..
-Go to a folder inside the current folder | cd <folder-name> | cd <folder-name>
+Go to a folder inside the current folder | cd \<folder-name\> | cd \<folder-name\>
 Show files and folders | dir | ls
-Go to another drive (e.g. d) | d: | cd /media/$USER/<drive-name>
+Go to another drive (e.g. d) | d: | cd /media/$USER/\<drive-name\>
 
 After you navigate to the right folder, type *jupyter notebook*, and a new page on the browser will appear.
 
