@@ -21,13 +21,13 @@ Note that these resources might be shared among multiple users. In my experience
 
 # Start using the Bartlett Remote Desktop
 
-Please follow this link: http://support.bartlett.ucl.ac.uk/category/remote-desktop/
+Please follow [this link](http://support.bartlett.ucl.ac.uk/category/remote-desktop/).
 
 # Sync files on the remote desktop
 
 If you want to upload or sync some files between your local computer and the remote desktop, the UCL N Drive is a good solution. Please follow these steps:
 
-- Add the UCL N Drive to the local machine. Please read this link: https://www.ucl.ac.uk/isd/services/file-storage-sharing/home-n-drive
+- Add the UCL N Drive to the local machine. Please read [this link](https://www.ucl.ac.uk/isd/services/file-storage-sharing/home-n-drive).
 - Put your files on the N drive. Make them well organised and use meaningful names!
 - The files will be quickly added to the N Drive on the remote desktop. In seconds.
 - If you update files on one machine, whether the local computer or remote desktop, the files will be synchronised automatically on the N Drive on other machines.
