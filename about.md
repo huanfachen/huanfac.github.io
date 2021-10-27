@@ -9,7 +9,7 @@ order: 3
 
 ![](Huanfa_ucl.jpg)
 
-Please find my CV in [this link](CV_HuanfaChen_20190222.pdf).
+Please find my CV in [this link](Huanfa_CV_20211027.pdf).
 
 I am a Teaching Fellow in spatial data science at the UCL Centre for Advanced Spatial Analysis (CASA). This is my research blog.
 
