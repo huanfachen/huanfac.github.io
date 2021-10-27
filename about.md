@@ -9,9 +9,9 @@ order: 3
 
 ![](Huanfa_ucl.jpg)
 
-Please find my CV in [this link](CV_HuanfaChen_20190222.pdf).
+Please find my CV in [this link](Huanfa_CV_20211027.pdf).
 
-I am a Teaching Fellow in spatial data science at the UCL Centre for Advanced Spatial Analysis (CASA). This is my research blog.
+I am a Lecturer in spatial data science at the UCL Centre for Advanced Spatial Analysis (CASA). This is my research blog.
 
 A city is supported by a range of public service, including security, healthcare, and public transport. The heart of my work lies at an interest of the urban demand-supply problem: 
 
