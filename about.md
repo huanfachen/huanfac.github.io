@@ -9,7 +9,7 @@ order: 3
 
 ![](Huanfa_ucl.jpg)
 
-Please find my CV in [this link](Huanfa_CV_20211027.pdf).
+Please find my CV [in English](CV_HuanfaChen_20220214.pdf) or [in Chiese](CV_HuanfaChen_Chinese_20220214.pdf).
 
 I am a Lecturer in spatial data science at the UCL Centre for Advanced Spatial Analysis (CASA). This is my research blog.
 
