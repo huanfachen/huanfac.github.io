@@ -63,7 +63,7 @@ In most cases, take care when using words and phrases such as those below – tr
 
 | **Taboo**                                                    | **Example**                                              | **Alternative**                                             |
 | :----------------------------------------------------------- | :------------------------------------------------------- | :---------------------------------------------------------- |
-| Beautiful, ugly, wonderful, horrible, great, boring, daunting | A review of the literature yielded many *great* articles | A review of the literature yielded many *relevant* articles |
+| Beautiful, ugly, wonderful, horrible, great, boring, daunting, overwhelming | A review of the literature yielded many *great* articles | A review of the literature yielded many *relevant* articles |
 | Obviously, naturally, of course                              | The results *obviously* indicate                         | The results *clearly* indicate                              |
 
 # Generally incorrect
