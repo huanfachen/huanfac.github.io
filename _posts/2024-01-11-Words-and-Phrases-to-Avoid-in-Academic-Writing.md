@@ -42,6 +42,7 @@ Using vague terms makes your writing imprecise and may cause people to interpret
 | Stuff     | People are concerned about their *stuff*            | People are concerned about their *(belongings/possessions/personal effects)* |
 | Thing     | The report presents many *things*                   | The report presents many *(details/findings/recommendations)* |
 | A while   | This topic has interested researchers for *a while* | This topic has interested researchers for *more than 30 years* |
+| Some      | Some people argue that...                           | [Strive for specificity] Several studies/a large number of studies ... |
 
 # Too exaggerated
 
