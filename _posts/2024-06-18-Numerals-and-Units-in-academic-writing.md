@@ -67,8 +67,6 @@ grade 3
 
 room 9
 
-grade three
-
 # Others - Rates, proportions and fractions
 
 - Use a virgule (/) for proportions, and a colon (:) for ratios:
@@ -79,14 +77,16 @@ grade three
   Half the cases showed…
   A two-thirds majority…
 - When writing a range or series, give the unit after the final item:
-  **BAD:** 25 mg–30 mg
-  **GOOD:** 25–30 mg
+  - **BAD:** 25 mg–30 mg
+  - **GOOD:** 25–30 mg
+  
 - Do not insert a space on either side of an em-dash (—):
-  **BAD:**The three sites — Taipei, Shanghai, and Bangkok — all experienced severe weather events in the time period studied.
-  **GOOD:** The three sites—Taipei, Shanghai, and Bangkok—all experienced severe weather events in the time period studied.
+  - **BAD:** The three sites — Taipei, Shanghai, and Bangkok — all experienced severe weather events in the time period studied.
+  - **GOOD:** The three sites—Taipei, Shanghai, and Bangkok—all experienced severe weather events in the time period studied.
+
 
 # Reference
 
-- Numerals and units, Springer, from https://www.springer.com/gp/authors-editors/journal-author/numerals-and-units/1370#:~:text=Spell%20out%20numbers%20one%20through,avoid%20starting%20with%20a%20number. (*My article relies heavily dependent on this reference*)
+- Numerals and units, Springer, from https://www.springer.com/gp/authors-editors/journal-author/numerals-and-units/1370#:~:text=Spell%20out%20numbers%20one%20through,avoid%20starting%20with%20a%20number. (*This article relies heavily dependent on this reference*)
 - https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Numbers.html
 - https://blog.apastyle.org/apastyle/2011/01/numbers-anyone.html
