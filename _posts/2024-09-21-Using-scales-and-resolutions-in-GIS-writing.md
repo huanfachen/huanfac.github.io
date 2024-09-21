@@ -4,7 +4,7 @@
 
 ---
 
-Updates 2024/01/29
+Updates 2024/09/21
 
 This post discusses the issue of using *scales*, *resolution*, and *granularity* in the writing of GIS papers.
 
@@ -13,7 +13,7 @@ This post discusses the issue of using *scales*, *resolution*, and *granularity*
 Well, the topic of scale is a headache to most GIS people. In the GIS bible, the authors described "The Many Meanings of Scale", as below:
 
 ```
-The concept of scale is fundamental to GIS, but unfortunately the word has acquired too many meanings in the course of time... it is best to use others terms that have clearer meaning where appropriate... In this book we have tried to avoid this problem [of many meanings of scale] by using the terms **coarse** and **fine** instead.
+The concept of scale is fundamental to GIS, but unfortunately the word has acquired too many meanings in the course of time... it is best to use other terms that have clearer meaning where appropriate... In this book we have tried to avoid this problem [of many meanings of scale] by using the terms **coarse** and **fine** instead.
 ```
 
 Long story short, there are at least three meanings of scale:
