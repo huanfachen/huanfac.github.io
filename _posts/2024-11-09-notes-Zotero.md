@@ -25,6 +25,6 @@ https://www.zotero.org/settings/storage
 4. The only way to sync and share files in a group library on Zotero is via Zotero storage. Group file storage always draws from the storage account of the group owner. 
 5. If a group of people are sharing lots of PDF files in multiple group libraries, an economic solution is to let one person upgrades storage and then to create multiple group libraries. Another weird solution is to create a new account and then use this new account to create one or more group libraries, so that you have an additional 300MB storage on Zotero.
 6. Two ways to search by keywords in Zotero
-   1. Using 'search box' on the top-right side of the UI
+   1. Using 'search box' on the top-right side of the UI.
    2. Using 'Advanced search' in Edit tab. BTW, this function doesn't feel like very advanced.
    3. Note: it is impossible to search across groups or libraries. Here, 'My library' is considered as a group or library, similar to a shared group.
